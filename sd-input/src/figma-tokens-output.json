@@ -25,6 +25,10 @@
         "apdmf": {
           "value": "#fff100",
           "type": "color"
+        },
+        "hellooo": {
+          "value": "#12ff00",
+          "type": "color"
         }
       }
     }
