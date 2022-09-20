@@ -5,6 +5,10 @@
         "green": {
           "value": "#358e11",
           "type": "color"
+        },
+        "blue": {
+          "value": "#003ee9",
+          "type": "color"
         }
       }
     }
