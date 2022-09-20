@@ -1,35 +1,33 @@
 {
   "global": {
-    "global": {
-      "primary": {
-        "green": {
-          "value": "#358e11",
-          "type": "color"
-        },
-        "blue": {
-          "value": "#003ee9",
-          "type": "color"
-        },
-        "red": {
-          "value": "#fc0000",
-          "type": "color"
-        },
-        "violet": {
-          "value": "#b100f2",
-          "type": "color"
-        },
-        "AAA": {
-          "value": "#b1d1a9",
-          "type": "color"
-        },
-        "apdmf": {
-          "value": "#fff100",
-          "type": "color"
-        },
-        "hellooo": {
-          "value": "#12ff00",
-          "type": "color"
-        }
+    "primary": {
+      "green": {
+        "value": "#358e11",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#003ee9",
+        "type": "color"
+      },
+      "red": {
+        "value": "#fc0000",
+        "type": "color"
+      },
+      "violet": {
+        "value": "#b100f2",
+        "type": "color"
+      },
+      "AAA": {
+        "value": "#b1d1a9",
+        "type": "color"
+      },
+      "apdmf": {
+        "value": "#fff100",
+        "type": "color"
+      },
+      "hellooo": {
+        "value": "#12ff00",
+        "type": "color"
       }
     }
   },
