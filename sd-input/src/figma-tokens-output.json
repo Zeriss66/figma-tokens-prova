@@ -9,6 +9,10 @@
         "blue": {
           "value": "#003ee9",
           "type": "color"
+        },
+        "red": {
+          "value": "#fc0000",
+          "type": "color"
         }
       }
     }
