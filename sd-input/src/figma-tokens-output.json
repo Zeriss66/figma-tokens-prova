@@ -21,6 +21,10 @@
         "AAA": {
           "value": "#b1d1a9",
           "type": "color"
+        },
+        "apdmf": {
+          "value": "#fff100",
+          "type": "color"
         }
       }
     }
