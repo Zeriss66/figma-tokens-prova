@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/stride-it.figma-tokens-l8a2kswo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve iOrLZqU2t1zZ8viU3UUh --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
