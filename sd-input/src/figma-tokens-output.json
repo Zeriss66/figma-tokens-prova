@@ -1,5 +1,14 @@
 {
-  "global": {},
+  "global": {
+    "global": {
+      "primary": {
+        "green": {
+          "value": "#358e11",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
