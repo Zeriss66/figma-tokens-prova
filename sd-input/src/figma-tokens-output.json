@@ -13,6 +13,10 @@
         "red": {
           "value": "#fc0000",
           "type": "color"
+        },
+        "violet": {
+          "value": "#b100f2",
+          "type": "color"
         }
       }
     }
