@@ -11,6 +11,10 @@
     "diocane": {
       "value": "#000",
       "type": "color"
+    },
+    "Minaaaa": {
+      "value": "#f4cd00",
+      "type": "color"
     }
   },
   "$themes": [],
