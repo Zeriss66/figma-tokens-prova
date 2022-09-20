@@ -17,6 +17,10 @@
         "violet": {
           "value": "#b100f2",
           "type": "color"
+        },
+        "AAA": {
+          "value": "#b1d1a9",
+          "type": "color"
         }
       }
     }
