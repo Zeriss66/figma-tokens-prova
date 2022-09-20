@@ -31,10 +31,17 @@
       }
     }
   },
+  "Porcamadonna": {
+    "diocane": {
+      "value": "#8e1f1f",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Porcamadonna"
     ]
   }
 }
