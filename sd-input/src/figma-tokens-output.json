@@ -8,13 +8,13 @@
     },
     "BorderRadious": {
       "Small": {
-        "value": "24",
+        "value": "24px",
         "type": "borderRadius"
       }
     },
     "Padding": {
       "Small": {
-        "value": "24",
+        "value": "24px",
         "type": "spacing"
       }
     }
@@ -40,7 +40,7 @@
     },
     "fontSize": {
       "0": {
-        "value": "16",
+        "value": "16px",
         "type": "fontSizes"
       }
     },
