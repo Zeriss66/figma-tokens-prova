@@ -8,6 +8,10 @@
       "Diocane": {
         "value": "#9f2c2c",
         "type": "color"
+      },
+      "Dioschifoso": {
+        "value": "#9ffc0c",
+        "type": "color"
       }
     },
     "fontFamilies": {
