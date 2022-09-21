@@ -1,8 +1,19 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Sep 2022 14:10:46 GMT
+ * Generated on Wed, 21 Sep 2022 14:40:36 GMT
  */
 
 :root {
-  --primary-color-test: #f90000;
+  --primary-cta: #392fa8;
+  --font-families-inter: Inter;
+  --line-heights-0: AUTO;
+  --font-weights-inter-0: Bold;
+  --font-size-0: 16;
+  --letter-spacing-0: 0%;
+  --paragraph-spacing-0: 0;
+  --cta-label: [object Object];
+  --text-case-none: none;
+  --text-decoration-none: none;
+  --border-radious-small: 24;
+  --padding-small: 24;
 }
