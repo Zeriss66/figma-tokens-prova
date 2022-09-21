@@ -1,0 +1,5 @@
+.cta {
+  font-family: var(--cta-label-font-family);
+  font-weight: var(--cta-label-font-weight);
+  font-size: var(--cta-label-font-size);
+}
