@@ -6,6 +6,7 @@ This is a button component.
 import { html } from 'lit';
 import '~/tokens/variables.css';
 import '../src/button.css';
+import '~/Typography/typography.css';
 ```
 
 ```js preview-story

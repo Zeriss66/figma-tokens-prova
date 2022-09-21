@@ -1,14 +1,14 @@
 .btn {
-  background-color: var(--figma-button-primary-background);
-  padding: 0.5rem 1.5rem;
-  color: var(--figma-button-primary-color);
+  border-radius: var(--border-radious-small);
+  font-size: var(--cta-label-font-size);
+  font-weight: var(--cta-label-font-weight);
+  padding: 16px;
   border: none;
-  outline: none;
-  cursor: pointer;
-  border-radius: 0.25rem;
+  font-family: var(--font-families-inter 'inter');
+  background-color: var(--primary-cta);
 }
 
-.btn:hover {
+/* .btn:hover {
   background-color: var(--figma-button-primary-hover-background);
 }
 
@@ -32,4 +32,4 @@
 
 .btn[disabled] {
   background-color: var(--figma-button-primary-disabled-background);
-}
+} */
