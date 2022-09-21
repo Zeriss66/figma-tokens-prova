@@ -22,8 +22,6 @@ module.exports = {
     }
   },
 
-
-
   platforms: {
     css: {
       transformGroup: "css",
