@@ -4,6 +4,10 @@
       "CTA": {
         "value": "#36a82f",
         "type": "color"
+      },
+      "Diocane": {
+        "value": "#9f2c2c",
+        "type": "color"
       }
     },
     "fontFamilies": {
