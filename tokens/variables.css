@@ -21,6 +21,6 @@
   --text-case-none: none;
   --text-decoration-none: none;
   --primary-cta: #392fa8;
-  --border-radious-small: 24px;
+  --border-radious-small: 24;
   --padding-small: 24;
 }
