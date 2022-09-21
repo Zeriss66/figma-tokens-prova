@@ -2,22 +2,24 @@
   "global": {
     "Primary": {
       "CTA": {
-        "value": "#36a82f",
-        "type": "color"
-      },
-      "Diocane": {
-        "value": "#9f2c2c",
-        "type": "color"
-      },
-      "Dioschifoso": {
-        "value": "#9ffc0c",
-        "type": "color"
-      },
-      "aaaa": {
-        "value": "#a35555",
+        "value": "#392fa8",
         "type": "color"
       }
     },
+    "BorderRadious": {
+      "Small": {
+        "value": "24",
+        "type": "borderRadius"
+      }
+    },
+    "Padding": {
+      "Small": {
+        "value": "24",
+        "type": "spacing"
+      }
+    }
+  },
+  "Typography": {
     "fontFamilies": {
       "inter": {
         "value": "Inter",
@@ -83,7 +85,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Typography"
     ]
   }
 }
