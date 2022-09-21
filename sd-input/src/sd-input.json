@@ -5,8 +5,10 @@
       "type": "other"
     }
   },
-  "ColorTest": {
-    "value": "#f90000",
-    "type": "color"
+  "Primary": {
+    "ColorTest": {
+      "value": "#f90000",
+      "type": "color"
+    }
   }
 }
