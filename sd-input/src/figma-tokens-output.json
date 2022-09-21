@@ -6,20 +6,6 @@
         "type": "color"
       }
     },
-    "BorderRadious": {
-      "Small": {
-        "value": "24px",
-        "type": "borderRadius"
-      }
-    },
-    "Padding": {
-      "Small": {
-        "value": "24px",
-        "type": "spacing"
-      }
-    }
-  },
-  "Typography": {
     "fontFamilies": {
       "inter": {
         "value": "Inter",
@@ -40,7 +26,7 @@
     },
     "fontSize": {
       "0": {
-        "value": "16px",
+        "value": "16",
         "type": "fontSizes"
       }
     },
@@ -85,8 +71,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
-      "Typography"
+      "global"
     ]
   }
 }
