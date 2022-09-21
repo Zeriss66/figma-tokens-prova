@@ -7,20 +7,20 @@
   --font-families-inter: Inter;
   --line-heights-0: AUTO;
   --font-weights-inter-0: Bold;
-  --font-size-0: 16;
+  --font-size-0: 16px;
   --letter-spacing-0: 0%;
   --paragraph-spacing-0: 0;
+  --text-case-none: none;
+  --text-decoration-none: none;
+  --primary-cta: #392fa8;
+  --border-radious-small: 24px;
+  --padding-small: 24px;
   --cta-label-font-family: Inter;
   --cta-label-font-weight: Bold;
   --cta-label-line-height: AUTO;
-  --cta-label-font-size: 16;
+  --cta-label-font-size: 16px;
   --cta-label-letter-spacing: 0%;
   --cta-label-paragraph-spacing: 0;
   --cta-label-text-case: none;
   --cta-label-text-decoration: none;
-  --text-case-none: none;
-  --text-decoration-none: none;
-  --primary-cta: #392fa8;
-  --border-radious-small: 24;
-  --padding-small: 24;
 }
