@@ -3,10 +3,12 @@
     "0": {
       "value": "global",
       "type": "other"
-    },
-    "1": {
-      "value": "Typography",
-      "type": "other"
+    }
+  },
+  "Primary": {
+    "CTA": {
+      "value": "#2fa85a",
+      "type": "color"
     }
   },
   "fontFamilies": {
@@ -89,24 +91,6 @@
     "none": {
       "value": "none",
       "type": "textDecoration"
-    }
-  },
-  "Primary": {
-    "CTA": {
-      "value": "#392fa8",
-      "type": "color"
-    }
-  },
-  "BorderRadious": {
-    "Small": {
-      "value": 24,
-      "type": "borderRadius"
-    }
-  },
-  "Padding": {
-    "Small": {
-      "value": 24,
-      "type": "spacing"
     }
   }
 }
