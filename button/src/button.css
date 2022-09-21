@@ -1,5 +1,5 @@
 .btn {
-  border-radius: var(--border-radious-small);
+  border-radius: 24px;
   font-size: var(--cta-label-font-size);
   font-weight: var(--cta-label-font-weight);
   padding: 16px;
