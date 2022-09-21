@@ -12,6 +12,10 @@
       "Dioschifoso": {
         "value": "#9ffc0c",
         "type": "color"
+      },
+      "aaaa": {
+        "value": "#a35555",
+        "type": "color"
       }
     },
     "fontFamilies": {
