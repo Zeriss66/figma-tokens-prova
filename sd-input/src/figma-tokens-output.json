@@ -1,19 +1,7 @@
 {
   "global": {
-    "dioschifoso": {
+    "ColorTest": {
       "value": "#f90000",
-      "type": "color"
-    },
-    "dioporco": {
-      "value": "#0527d6",
-      "type": "color"
-    },
-    "diocane": {
-      "value": "#000",
-      "type": "color"
-    },
-    "Minaaaa": {
-      "value": "#f4cd00",
       "type": "color"
     }
   },
