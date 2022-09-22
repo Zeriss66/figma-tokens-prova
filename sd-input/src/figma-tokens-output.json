@@ -100,7 +100,7 @@
   },
   "Button": {
     "black": {
-      "value": "#000",
+      "value": "#09090e",
       "type": "color"
     }
   },
