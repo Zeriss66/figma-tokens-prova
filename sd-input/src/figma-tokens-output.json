@@ -98,11 +98,18 @@
       }
     }
   },
+  "Button": {
+    "black": {
+      "value": "#000",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "Typography"
+      "Typography",
+      "Button"
     ]
   }
 }
