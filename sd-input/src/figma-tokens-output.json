@@ -4,8 +4,19 @@
       "CTA": {
         "value": "#392fa8",
         "type": "color"
-      }
-    },
+      },
+      "Diocane": {
+        "value": "#9f2c2c",
+        "type": "color"
+      },
+      "Dioschifoso": {
+        "value": "#9ffc0c",
+        "type": "color"
+      },
+      "aaaa": {
+        "value": "#a35555"
+    }
+  },
     "BorderRadious": {
       "Small": {
         "value": "24",
