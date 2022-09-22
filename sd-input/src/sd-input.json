@@ -93,7 +93,7 @@
   },
   "Primary": {
     "CTA": {
-      "value": "#392fa8",
+      "value": "#a89b2f",
       "type": "color"
     },
     "Diocane": {
@@ -106,7 +106,11 @@
     },
     "aaaa": {
       "value": "#a35555",
-      "type": "other"
+      "type": "color"
+    },
+    "bbbb": {
+      "value": "#a255a5",
+      "type": "color"
     }
   },
   "BorderRadious": {

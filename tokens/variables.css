@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 22 Sep 2022 06:55:24 GMT
+ * Generated on Thu, 22 Sep 2022 06:58:21 GMT
  */
 
 :root {
@@ -20,10 +20,11 @@
   --cta-label-text-decoration: none;
   --text-case-none: none;
   --text-decoration-none: none;
-  --primary-cta: #392fa8;
+  --primary-cta: #a89b2f;
   --primary-diocane: #9f2c2c;
   --primary-dioschifoso: #9ffc0c;
   --primary-aaaa: #a35555;
+  --primary-bbbb: #a255a5;
   --border-radious-small: 24;
   --padding-small: 24;
 }
