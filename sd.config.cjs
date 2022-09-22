@@ -10,17 +10,17 @@ module.exports = {
     },
   },
 
-  format: {
-    myCssFormat: ({ dictionary, options = {}, file }) => {
-      const selector = options.selector ? options.selector : `:root`;
-      const { outputReferences } = options;
-      dictionary.allTokens = dictionary.allTokens.filter(token => token.attributes.category !== 'tokenSetOrder');
-      return fileHeader({ file }) +
-        `${selector} {\n` +
-        formattedVariables({ format: 'css', dictionary, outputReferences }) +
-        `\n}\n`;
-    }
-  },
+  // format: {
+  //   myCssFormat: ({ dictionary, options = {}, file }) => {
+  //     const selector = options.selector ? options.selector : `:root`;
+  //     const { outputReferences } = options;
+  //     dictionary.allTokens = dictionary.allTokens.filter(token => token.attributes.category !== 'tokenSetOrder');
+  //     return fileHeader({ file }) +
+  //       `${selector} {\n` +
+  //       formattedVariables({ format: 'css', dictionary, outputReferences }) +
+  //       `\n}\n`;
+  //   }
+  // },
 
   platforms: {
     css: {
