@@ -14,7 +14,8 @@
         "type": "color"
       },
       "aaaa": {
-        "value": "#a35555"
+        "value": "#a35555",
+        "type":"color"
     }
   },
     "BorderRadious": {
