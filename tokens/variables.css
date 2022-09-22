@@ -3,29 +3,6 @@
  */
 
 :root {
-  --figma-token-set-order-0: global;
-  --figma-token-set-order-1: Typography;
-  --figma-font-families-inter: Inter;
-  --figma-line-heights-0: AUTO;
-  --figma-font-weights-inter-0: Bold;
-  --figma-font-size-0: 16;
-  --figma-letter-spacing-0: 0%;
-  --figma-paragraph-spacing-0: 0;
-  --figma-cta-label-font-family: Inter;
-  --figma-cta-label-font-weight: Bold;
-  --figma-cta-label-line-height: AUTO;
-  --figma-cta-label-font-size: 16;
-  --figma-cta-label-letter-spacing: 0%;
-  --figma-cta-label-paragraph-spacing: 0;
-  --figma-cta-label-text-case: none;
-  --figma-cta-label-text-decoration: none;
-  --figma-text-case-none: none;
-  --figma-text-decoration-none: none;
-  --figma-primary-cta: #a89b2f;
-  --figma-primary-diocane: #9f2c2c;
-  --figma-primary-dioschifoso: #9ffc0c;
-  --figma-primary-aaaa: #a35555;
-  --figma-primary-bbbb: #a255a5;
-  --figma-border-radious-small: 24;
-  --figma-padding-small: 24;
+  --black: #09090e;
+  --diocane-aaaa: #aaa;
 }
