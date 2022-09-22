@@ -16,7 +16,11 @@
       "aaaa": {
         "value": "#a35555",
         "type":"color"
-    }
+    },
+    "bbbb": {
+      "value": "#a255a5",
+      "type":"color"
+  }
   },
     "BorderRadious": {
       "Small": {
