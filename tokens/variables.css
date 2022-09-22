@@ -1,10 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Wed, 21 Sep 2022 20:09:07 GMT
+ * Generated on Thu, 22 Sep 2022 06:53:09 GMT
  */
 
 :root {
-  --primary-cta: #36a82f;
   --font-families-inter: Inter;
   --line-heights-0: AUTO;
   --font-weights-inter-0: Bold;
@@ -21,4 +20,10 @@
   --cta-label-text-decoration: none;
   --text-case-none: none;
   --text-decoration-none: none;
+  --primary-cta: #392fa8;
+  --primary-diocane: #9f2c2c;
+  --primary-dioschifoso: #9ffc0c;
+  --primary-aaaa: #a35555;
+  --border-radious-small: 24;
+  --padding-small: 24;
 }

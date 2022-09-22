@@ -3,12 +3,10 @@
     "0": {
       "value": "global",
       "type": "other"
-    }
-  },
-  "Primary": {
-    "CTA": {
-      "value": "#36a82f",
-      "type": "color"
+    },
+    "1": {
+      "value": "Typography",
+      "type": "other"
     }
   },
   "fontFamilies": {
@@ -91,6 +89,36 @@
     "none": {
       "value": "none",
       "type": "textDecoration"
+    }
+  },
+  "Primary": {
+    "CTA": {
+      "value": "#392fa8",
+      "type": "color"
+    },
+    "Diocane": {
+      "value": "#9f2c2c",
+      "type": "color"
+    },
+    "Dioschifoso": {
+      "value": "#9ffc0c",
+      "type": "color"
+    },
+    "aaaa": {
+      "value": "#a35555",
+      "type": "other"
+    }
+  },
+  "BorderRadious": {
+    "Small": {
+      "value": 24,
+      "type": "borderRadius"
+    }
+  },
+  "Padding": {
+    "Small": {
+      "value": 24,
+      "type": "spacing"
     }
   }
 }
