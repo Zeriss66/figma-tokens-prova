@@ -102,6 +102,12 @@
     "black": {
       "value": "#09090e",
       "type": "color"
+    },
+    "diocane": {
+      "aaaa": {
+        "value": "#aaa",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
