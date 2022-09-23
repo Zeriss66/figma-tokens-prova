@@ -2,14 +2,14 @@
   "button": {
     "primary": {
       "CTA": {
-        "value": "#080599",
+        "value": "#990575",
         "type": "color"
       }
     },
     "border": {
       "radius": {
         "small": {
-          "value": "24px",
+          "value": "32px",
           "type": "borderRadius"
         }
       }
