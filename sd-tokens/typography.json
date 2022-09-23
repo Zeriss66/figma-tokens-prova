@@ -3,6 +3,10 @@
     "inter": {
       "value": "Inter",
       "type": "fontFamilies"
+    },
+    "roc-grotesk": {
+      "value": "Roc Grotesk",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
@@ -15,9 +19,17 @@
     "inter-0": {
       "value": "Bold",
       "type": "fontWeights"
+    },
+    "roc-grotesk-0": {
+      "value": "Black",
+      "type": "fontWeights"
     }
   },
   "fontSize": {
+    "0": {
+      "value": 16,
+      "type": "fontSizes"
+    },
     "16": {
       "value": "16px",
       "type": "fontSizes"
@@ -37,10 +49,10 @@
   },
   "CTA_Label": {
     "value": {
-      "fontFamily": "Inter",
-      "fontWeight": "Bold",
+      "fontFamily": "Roc Grotesk",
+      "fontWeight": "Black",
       "lineHeight": "160%",
-      "fontSize": "16px",
+      "fontSize": 16,
       "letterSpacing": "0%",
       "paragraphSpacing": 0,
       "textCase": "none",
