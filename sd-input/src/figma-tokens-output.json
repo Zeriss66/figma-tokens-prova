@@ -1,11 +1,13 @@
 {
-  "Button": {
+  "button": {
     "primary": {
-      "value": "#f60000",
-      "type": "color"
+      "CTA": {
+        "value": "#9a0584",
+        "type": "color"
+      }
     }
   },
-  "Typography": {
+  "typography": {
     "fontFamilies": {
       "inter": {
         "value": "Inter",
@@ -14,7 +16,7 @@
     },
     "lineHeights": {
       "0": {
-        "value": "AUTO",
+        "value": "160%",
         "type": "lineHeights"
       }
     },
@@ -25,7 +27,7 @@
       }
     },
     "fontSize": {
-      "0": {
+      "16": {
         "value": "16",
         "type": "fontSizes"
       }
@@ -47,7 +49,7 @@
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.0}",
+        "fontSize": "{fontSize.16}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.none}",
@@ -68,11 +70,20 @@
       }
     }
   },
+  "spacing": {
+    "Padding": {
+      "medium": {
+        "value": "24",
+        "type": "spacing"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Button",
-      "Typography"
+      "button",
+      "typography",
+      "spacing"
     ]
   }
 }
