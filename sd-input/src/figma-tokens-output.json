@@ -71,7 +71,7 @@
     }
   },
   "spacing": {
-    "Padding": {
+    "padding": {
       "medium": {
         "value": "24",
         "type": "spacing"
