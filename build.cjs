@@ -27,12 +27,12 @@ StyleDictionaryPackage.registerTransform({
 function getStyleDictionaryConfig(theme) {
   return {
     "source": [
-      `tokens-var/${theme}.json`,
+      `sd-tokens/${theme}.json`,
     ],
     "platforms": {
       "web": {
         "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
-        "buildPath": `var-css/`,
+        "buildPath": `tokens/`,
         "files": [{
             "destination": `${theme}.css`,
             "format": "css/variables",
@@ -47,7 +47,7 @@ console.log('Build started...');
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-['button', 'typography'].map(function (theme) {
+['button', 'typography', 'spacing'].map(function (theme) {
 
     console.log('\n==============================================');
     console.log(`\nProcessing: [${theme}]`);

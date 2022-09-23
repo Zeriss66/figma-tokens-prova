@@ -1,0 +1,11 @@
+.typography {
+          --font-families-inter: Inter;
+  --line-heights-0: 160%;
+  --font-weights-inter-0: Bold;
+  --font-size-16: 16px;
+  --letter-spacing-0: 0%;
+  --paragraph-spacing-0: 0;
+  --cta-label: [object Object];
+  --text-case-none: none;
+  --text-decoration-none: none;
+      }
