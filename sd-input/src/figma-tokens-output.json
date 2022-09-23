@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "CTA": {
-        "value": "#059922",
+        "value": "#080599",
         "type": "color"
       }
     },
@@ -66,8 +66,8 @@
     },
     "CTA_Label": {
       "value": {
-        "fontFamily": "{fontFamilies.roc-grotesk}",
-        "fontWeight": "{fontWeights.roc-grotesk-0}",
+        "fontFamily": "{fontFamilies.inter}",
+        "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.0}",
