@@ -5,6 +5,14 @@
         "value": "#9a0584",
         "type": "color"
       }
+    },
+    "border": {
+      "radius": {
+        "small": {
+          "value": "24px",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "typography": {
@@ -28,7 +36,7 @@
     },
     "fontSize": {
       "16": {
-        "value": "16",
+        "value": "16px",
         "type": "fontSizes"
       }
     },
@@ -73,7 +81,7 @@
   "spacing": {
     "padding": {
       "medium": {
-        "value": "24",
+        "value": "24px",
         "type": "spacing"
       }
     }
