@@ -10,7 +10,7 @@ jobs:
       # Install dependencies
       - run: npm install
       # Transform Figma Tokens JSON to something Style Dictionary can read
-      - run: npx token-transformer sd-input/src/figma-tokens-output.json tokens-var/button.json Button
+      - run: npx token-transformer sd-input/src/figma-tokens-output.json tokens/button.json button
       # Create a light theme, exclude the global tokens
       - run: npx token-transformer sd-input/src/figma-tokens-output.json tokens-var/typography.json Typography Button
       # Create a dark theme, exclude the global tokens
