@@ -4,5 +4,13 @@
       "value": "#9a0584",
       "type": "color"
     }
+  },
+  "border": {
+    "radius": {
+      "small": {
+        "value": "24px",
+        "type": "borderRadius"
+      }
+    }
   }
 }

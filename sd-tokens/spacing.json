@@ -1,7 +1,7 @@
 {
   "padding": {
     "medium": {
-      "value": 24,
+      "value": "24px",
       "type": "spacing"
     }
   }
