@@ -1,10 +1,6 @@
 {
   "button": {
-<<<<<<< HEAD
-    "Primary": {
-=======
     "primary": {
->>>>>>> refs/remotes/origin/main
       "CTA": {
         "value": "#9a0584",
         "type": "color"
