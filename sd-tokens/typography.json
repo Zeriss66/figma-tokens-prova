@@ -49,8 +49,8 @@
   },
   "CTA_Label": {
     "value": {
-      "fontFamily": "Roc Grotesk",
-      "fontWeight": "Black",
+      "fontFamily": "Inter",
+      "fontWeight": "Bold",
       "lineHeight": "160%",
       "fontSize": 16,
       "letterSpacing": "0%",
