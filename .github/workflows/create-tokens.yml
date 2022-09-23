@@ -1,5 +1,5 @@
 name: Create Tokens
-on: [create_tokens]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
