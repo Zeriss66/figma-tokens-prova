@@ -36,7 +36,8 @@ function getStyleDictionaryConfig(theme) {
         "files": [{
             "destination": `${theme}.css`,
             "format": "css/variables",
-            "selector": `.${theme}`
+            // "selector": `.${theme}`
+            "selector": `:root`
           }]
       }
     }
