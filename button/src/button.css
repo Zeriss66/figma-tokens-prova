@@ -1,8 +1,8 @@
-.btn {
-  border-radius: 24px;
-  font-size: var(--cta-label-font-size);
-  font-weight: var(--cta-label-font-weight);
-  padding: 16px;
+.button {
+  border-radius: var(--border-radius-small);
+  font-size: var(--font-size-16);
+  font-weight: var(--font-weights-inter-0);
+  padding: var(--padding-medium);
   border: none;
   font-family: var(--font-families-inter 'inter');
   background-color: var(--primary-cta);
