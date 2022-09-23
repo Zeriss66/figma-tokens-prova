@@ -1,14 +1,18 @@
 {
   "primary": {
     "CTA": {
-      "value": "#059917",
+      "value": "#059995",
+      "type": "color"
+    },
+    "ciaoandre": {
+      "value": "#535353",
       "type": "color"
     }
   },
   "border": {
     "radius": {
       "small": {
-        "value": "0px",
+        "value": "99px",
         "type": "borderRadius"
       }
     }
